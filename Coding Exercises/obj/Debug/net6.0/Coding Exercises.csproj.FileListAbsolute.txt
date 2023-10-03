@@ -1,0 +1,15 @@
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.csproj.AssemblyReference.cache
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.AssemblyInfoInputs.cache
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.AssemblyInfo.cs
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.csproj.CoreCompileInputs.cache
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\bin\Debug\net6.0\Coding Exercises.exe
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\bin\Debug\net6.0\Coding Exercises.deps.json
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\bin\Debug\net6.0\Coding Exercises.runtimeconfig.json
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\bin\Debug\net6.0\Coding Exercises.dll
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\bin\Debug\net6.0\Coding Exercises.pdb
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.dll
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\refint\Coding Exercises.dll
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.pdb
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\Coding Exercises.genruntimeconfig.cache
+C:\Users\divan\Source\Repos\CSharp-Coding-Challenges\Coding Exercises\obj\Debug\net6.0\ref\Coding Exercises.dll
