@@ -53,24 +53,7 @@ public class CriticalRollApp
  Critical Roll Application:
 
 Write a C# console application that uses a method that will roll a 20-sided dice a total of 10 times, making sure that no 2 subsequent rolls are the same. 
-Store these values and then use a bubble sorting method to sort the values from lowest to highest. 
+Store these values and then sort the values from lowest to highest. 
 Count the occurrences of critical failures (1) and critical successes (20). 
 Display the series of rolls, along with the counts of the critical rolls respectively.
- 
-Pseudo code:
-Storage for dice 
-
-Rolling the dice and the random output, creating an array of numbers. 
-    Keeping in mind no 2 rolls can be the same.
-
-Will use bubble sort list to put into list of low to high
-
-Distinguish between:    
-    Critical failure
-    Critical success
-
-Count the rolls.
-    As well as critical rolls
-
-Display to console.
  */
