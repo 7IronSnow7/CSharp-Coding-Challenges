@@ -1,11 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class TwoSum
 {
-	public int[] Solution()
+    public int[] Solution(int[] nums; int target)
 	{
+        Dictionary<int, int> numOfIndices = new();
 
-	}
+        for (var i = 0; i < nums.Length; i++)
+        {
+            var complement = target - nums[i];
+            if (numOfIndices.ContainsKey(complement))
+            {
+                return new int[] { numOfIndices[complement] };
+            }
+            numOfIndices[complement] = nums[i];
+        }
+        throw new ArgumentException("No two numbers add up to target");
+    }
 }
 //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
