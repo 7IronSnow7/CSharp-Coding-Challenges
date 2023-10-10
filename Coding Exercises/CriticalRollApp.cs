@@ -56,4 +56,3 @@ Write a C# console application that uses a method that will roll a 20-sided dice
 Store these values and then sort the values from lowest to highest. 
 Count the occurrences of critical failures (1) and critical successes (20). 
 Display the series of rolls, along with the counts of the critical rolls respectively.
- */
