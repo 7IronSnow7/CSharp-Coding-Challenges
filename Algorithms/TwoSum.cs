@@ -5,18 +5,17 @@ public class TwoSum
 {
     public int[] Solution(int[] nums; int target)
 	{
-        Dictionary<int, int> numOfIndices = new();
-
-        for (var i = 0; i < nums.Length; i++)
+        for(var i = 0; i< nums.Length; i++)
         {
-            var complement = target - nums[i];
-            if (numOfIndices.ContainsKey(complement))
+            for(var i = 0; i< nums.Length; i++)
             {
-                return new int[] { numOfIndices[complement] };
+                if(nums[i] nums[j] == target)
+                {
+                    return new int[] {i, j };
+                }
             }
-            numOfIndices[complement] = nums[i];
         }
-        throw new ArgumentException("No two numbers add up to target");
+        throw new ArgumentException("No two numbers add up");
     }
 }
 //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
