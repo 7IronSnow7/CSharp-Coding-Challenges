@@ -1,8 +1,34 @@
 ﻿using System;
 
-public class Class1
+public class NeedleHaystack
 {
-	public Class1()
+	public static string Soltuion(string haystack, string needle)
 	{
+		for(var i = 0; i < haystack.Length; i++)
+		{
+			for(var j = 0; j < needle.Length; j++)
+			{
+				if (haystack.Contains(needle))
+				{
+					return haystack.IndexOf(needle);
+				}
+			}
+		}
+		return -1;
 	}
 }
+/*
+ Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, 
+or -1 if needle is not part of haystack.
+Example 1:
+
+Input: haystack = "sadbutsad", needle = "sad"
+Output: 0
+Explanation: "sad" occurs at index 0 and 6.
+The first occurrence is at index 0, so we return 0.
+Example 2:
+
+Input: haystack = "leetcode", needle = "leeto"
+Output: -1
+Explanation: "leeto" did not occur in "leetcode", so we return -1.
+ */
