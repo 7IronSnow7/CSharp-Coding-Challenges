@@ -4,15 +4,9 @@ public class NeedleHaystack
 {
 	public static string Soltuion(string haystack, string needle)
 	{
-		for(var i = 0; i < haystack.Length; i++)
+		if(haystack.Contains(needle))
 		{
-			for(var j = 0; j < needle.Length; j++)
-			{
-				if (haystack.Contains(needle))
-				{
-					return haystack.IndexOf(needle);
-				}
-			}
+			return haystack.IndexOf(needle);
 		}
 		return -1;
 	}
